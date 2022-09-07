@@ -1,4 +1,5 @@
-from statistics import mean as m
+from statistics import mean as m             #    login id: gaurav  password: 2020
+                                             # login id : adarsh  passwod : 2021
 admins={'gaurav':2020 , 'adarsh':2021}
 students_list={'gauarav':98,'adarsh':96,'dhanraj':95}
 def entergrades():
